@@ -1,0 +1,5 @@
+com\example\alunoapi\config\SwaggerConfig.class
+com\example\alunoapi\model\Aluno.class
+com\example\alunoapi\AlunoApiApplication.class
+com\example\alunoapi\controller\AlunoController.class
+com\example\alunoapi\repository\AlunoRepository.class
